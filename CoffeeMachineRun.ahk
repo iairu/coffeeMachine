@@ -1,0 +1,1 @@
+﻿Run, java -jar "%A_ScriptDir%/CoffeeMachine.jar"
