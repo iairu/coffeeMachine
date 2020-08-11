@@ -4,6 +4,8 @@ Here lies what remains of a month well spent on JetBrains Academy / Hyperskill. 
 
 **Use cases for this repo:** Literally none, just for archival of what was my first interaction with Java.
 
+**Download links:** [Click here](https://github.com/iairu/coffeeMachine/releases) (and read the instructions if you've never used java before)
+
 ---
 
 ## Folder labeling
